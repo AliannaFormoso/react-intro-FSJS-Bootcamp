@@ -24,7 +24,7 @@ class App extends Component {
       
       <Children title={"Salut Monde"}>
         <p>Comment ca va?</p> 
-        <Card title="Hola Mundo" text="Como vas?" > </Card>
+        <Card title="Ciao Mondo" text="Come vai?" > </Card>
       </Children>
     </>
   )
